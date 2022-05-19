@@ -8,11 +8,11 @@ This is all the resources in one file, If I happen to leave any useful resource 
 
 ## **Resources Links**
 
-|                                                                                       |                                                                                 |                                                                |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | :------------------------------------------------------------- |
-| <a href="./Resources/book.md" rel="free books">![Books](./coverpics/coverpic.gif)</a> | <a href="#" rel="tech blogs">![Blogs](./coverpics/blogs.png)</a>                | <a href="#" rel="docs">![Docs](./coverpics/docs.png)</a>       |
-| <a href="#" rel="youtube">![YouTube](./coverpics/tube.png)</a>                        | <a href="#" rel="courses">![Course Guide](./coverpics/courses.png)</a>          | <a href="#" rel="sites">![Websites](./coverpics/sites.png)</a> |
-| <a href="#" rel="podcast">![Podcast](./coverpics/podcast.png)</a>                     | <a href="#" rel="design and productivity">![Design](./coverpics/design.png)</a> | <a href="#" rel="Games">![Games](./coverpics/game.png)</a>     |
-| <a href="#" rel="Dev Community">![Communities](./coverpics/community.png)</a>         | <a href="#" rel="Interview">![InterviewPrep](./coverpics/interview.png)</a>     | <a href="#" rel="Jobs">![Applyobs](./coverpics/jobs.png)</a>   |
+|                                                                                                                                                    |                                                                                 |                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | :------------------------------------------------------------- |
+| <a href="https://github.com/larymak/Coding-Resources-Handbook/blob/main/Resourses/book.md" rel="free books">![Books](./coverpics/coverpic.gif)</a> | <a href="#" rel="tech blogs">![Blogs](./coverpics/blogs.png)</a>                | <a href="#" rel="docs">![Docs](./coverpics/docs.png)</a>       |
+| <a href="#" rel="youtube">![YouTube](./coverpics/tube.png)</a>                                                                                     | <a href="#" rel="courses">![Course Guide](./coverpics/courses.png)</a>          | <a href="#" rel="sites">![Websites](./coverpics/sites.png)</a> |
+| <a href="#" rel="podcast">![Podcast](./coverpics/podcast.png)</a>                                                                                  | <a href="#" rel="design and productivity">![Design](./coverpics/design.png)</a> | <a href="#" rel="Games">![Games](./coverpics/game.png)</a>     |
+| <a href="#" rel="Dev Community">![Communities](./coverpics/community.png)</a>                                                                      | <a href="#" rel="Interview">![InterviewPrep](./coverpics/interview.png)</a>     | <a href="#" rel="Jobs">![Applyobs](./coverpics/jobs.png)</a>   |
 
 _More Resources coming soon_
