@@ -31,7 +31,8 @@
 </details>
 
 <details open>
-  <summary>C</summary>
+  <summary>Javascript</summary>
   <ol>
+    <li><a href="https://www.patterns.dev/book/" target="blank">Learning patterns</a> - Design patterns and component patterns with vanilla JavaScript and React</li>
   </ol>
 </details>
