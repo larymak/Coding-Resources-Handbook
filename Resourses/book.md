@@ -36,3 +36,24 @@
     <li><a href="https://www.patterns.dev/book/" target="blank">Learning patterns</a> - Design patterns and component patterns with vanilla JavaScript and React</li>
   </ol>
 </details>
+
+<details open>
+  <summary>Python</summary>
+  <ol>
+    <li><a href="https://www.pdfdrive.com/a-python-book-beginning-python-advanced-python-and-python-e9236005.html" target="blank">A Python Book: Beginning Python, Advanced Python, and Python</a> - Compiled from StackOverflow Documentation</li>
+    <li><a href="https://www.pdfdrive.com/learn-python-in-one-day-and-learn-it-well-python-for-beginners-with-hands-on-project-the-only-book-you-need-to-start-coding-in-python-immediately-e183833259.html" target="blank">Learn Python in One Day and Learn It Well: Python for Beginners with Hands-on Project</a></li>
+    <li><a href="https://www.pdfdrive.com/automate-the-boring-stuff-with-python-automate-the-boring-stuff-with-python-e26956384.html" target="blank">Automate the boring stuff with python</a></li>
+    <li><a href="https://www.pdfdrive.com/black-hat-python-python-programming-for-hackers-and-pentesters-e158527426.html" target="blank">Black hat Python : Python programming for hackers and pentesters</a></li>
+    <li><a href="https://www.pdfdrive.com/python-algorithms-mastering-basic-algorithms-in-the-python-language-e175246184.html" target="blank">Python Algorithms: Mastering Basic Algorithms in the Python Language</a></li>
+    <li><a href="https://www.pdfdrive.com/practical-python-design-patterns-pythonic-solutions-to-common-problems-e183035091.html" target="blank">Practical Python Design Patterns: Pythonic Solutions to Common Problems</a></li>
+  </ol>
+</details>
+
+
+<details open>
+  <summary>Javascript</summary>
+  <ol>
+    <li><a href="https://www.pdfdrive.com/javascript-javascript-for-beginners-learn-javascript-programming-with-ease-in-half-the-time-everything-about-the-language-coding-programming-and-web-pages-you-need-to-know-e158299863.html" target="blank">JavaScript: JavaScript For Beginners</a></li>
+    <li><a href="https://www.pdfdrive.com/learning-react-a-hands-on-guide-to-building-web-applications-using-react-and-redux-e185752183.html" target="blank">Learning React: A Hands-On Guide to Building Web Applications Using React and Redux</a></li>
+  </ol>
+</details>
