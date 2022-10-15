@@ -1,5 +1,5 @@
 <details open>
-  <summary>Remote Jobs</summary>
+  <summary><h2>Remote Jobs<h2></summary>
   <ol>
     <li><a href="https://justremote.co/" target="blank">JustRemote</a> - Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere.</li>
     <li><a href="https://remoteok.com/" target="blank">Remote OK</a></li>

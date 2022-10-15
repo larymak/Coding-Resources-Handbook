@@ -1,7 +1,7 @@
 <details open>
-  <summary>Developer Communities</summary>
+  <summary><h2>Developer Communities</h2></summary>
 <details open>
-  <summary>Web Development & Design Communities</summary>
+  <summary><h3>Web Development & Design Communities</h3></summary>
   <ol>
     <li><a href="https://forum.freecodecamp.org/" target="blank">The freeCodeCamp Forum</a></li>
     <li><a href="https://www.webdeveloper.com/" target="blank">Web Developer Forum</a></li>
@@ -15,7 +15,7 @@
 </details>
 
 <details open>
-    <summary>Blogging Communities</summary>
+  <summary><h3>Blogging Communities</h3></summary>
   <ol>
     <li><a href="https://dev.to/" target="blank">Dev.to</a></li>
     <li><a href="https://www.freecodecamp.org/news" target="blank">freeCodeCamp</a></li>
@@ -27,7 +27,7 @@
 </details>
 
 <details open>
-    <summary>General Tech Communities</summary>
+  <summary><h3>General Tech Communities</h3></summary>
   <ol>
     <li><a href="https://stackoverflow.com/" target="blank">Stack Overflow</a></li>
     <li><a href="https://stackexchange.com/" target="blank">Stack Exchange</a></li>
@@ -41,7 +41,7 @@
 </details>
 
 <details open>
-    <summary>Tech Communities Specifically for Women</summary>
+  <summary><h3>Tech Communities Specifically for Women</h3></summary>
   <ol>
     <li><a href="https://www.womenwhocode.com/" target="blank">Women Who Code</a></li>
     <li><a href="https://witchat.github.io/" target="blank">Women in Technology</a></li>
@@ -57,7 +57,7 @@
 </details>
 
 <details open>
-    <summary>Language-Specific Communities</summary>
+  <summary><h3>Language-Specific Communities</h3></summary>
   <ol>
     <li><a href="https://www.python.org/community/" target="blank">Python</a></li>
     <li><a href="https://www.oracle.com/java/technologies/javacommunity.html" target="blank">Java</a></li>

@@ -1,5 +1,5 @@
 <details open>
-  <summary>Developer Productivity Tools</summary>
+  <summary><h2>Developer Productivity Tools<h2></summary>
   <ol>
     <li><a href="https://getcoldturkey.com/" target="blank">Cold Turkey</a> - Cold Turkey is a distraction-blocking application that helps developers focus on the task at hand rather than spending time on other, less important, stuff on the Internet.</li>
     <li><a href="https://habitica.com/" target="blank">Habitica</a> - This app actually treats your daily workload as an RPG game where you can level up by completing your tasks.</li>

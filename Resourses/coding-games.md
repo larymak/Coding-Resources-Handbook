@@ -1,5 +1,5 @@
 <details open>
-  <summary>Games</summary>
+  <summary><h2>Games</h2></summary>
 <details open>
   <summary>Game for Developers</summary>
   <ol>
@@ -10,7 +10,7 @@
 </details>
 
 <details open>
-    <summary>Other Games</summary>
+  <summary><h2>Other Games</h2></summary>
   <ol>
     <li><a href="https://www.codingame.com/start" target="blank">Codingame</a></li>
     <li><a href="https://screeps.com/" target="blank">Screeps</a></li>

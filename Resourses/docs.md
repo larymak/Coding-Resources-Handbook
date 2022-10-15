@@ -1,7 +1,7 @@
 <details open>
-  <summary>Official Documentation or Manuals</summary>
+  <summary><h2>Official Documentation or Manuals<h2></summary>
 <details open>
-    <summary>Programming Languages</summary>
+    <summary><h3>Programming Languages</h3></summary>
   <ol>
     <li><a href="http://www.gnu.org/software/libc/manual/" target="blank">C</a></li>
     <li><a href="http://java.sun.com/javase/downloads/index.jsp#docs" target="blank">Java</a></li>
@@ -28,7 +28,7 @@
 </details>
 
 <details open>
-    <summary>Popular frameworks</summary>
+    <summary><h3>Popular frameworks</h3></summary>
   <ol>
     <li><a href="https://kivy.org/doc/stable/" target="blank">Kivy (Python)</a></li>
     <li><a href="https://docs.djangoproject.com/" target="blank">Django (Python)</a></li>
